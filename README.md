@@ -92,4 +92,12 @@ It serves as a practical demonstration of using text classification in real-worl
 
 - Completely executable within Jupyter Notebook.
 
+# Output 
 
+### Confusion Matrix
+
+![Screenshot 2025-06-09 174204](https://github.com/user-attachments/assets/74003a1f-ebf4-4898-a14d-962bc4b18af1)
+
+### Accuracy Score
+
+![Screenshot 2025-06-09 200016](https://github.com/user-attachments/assets/f7e67c34-b133-4d66-9db6-a87eec4eabb9)
